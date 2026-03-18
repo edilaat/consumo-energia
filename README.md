@@ -1,8 +1,8 @@
 # Calculadora de Consumo de Energia Elétrica
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
-⚡
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/> ⚡
+
+
 Projeto em Python para estimar o consumo mensal de energia elétrica de aparelhos domésticos, com base na potência e no tempo de uso diário.
 
 # Descrição
