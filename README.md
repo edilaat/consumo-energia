@@ -10,10 +10,13 @@ O programa solicita ao usuário o nome do aparelho, sua potência em watts e qua
 
 # Exemplo de uso
 Qual o nome do aparelho? televisão
+
 Qual a potência do aparelho? 150
+
 Quantas horas por dia o aparelho fica ligado? 12
 
 Aparelho: televisão
+
 Consumo estimado: 54.0 kWh/mês
 
 # Fórmula do cálculo
